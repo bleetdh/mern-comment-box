@@ -1,4 +1,4 @@
-// model/comments.js
+// mode/comments.js
 'use strict'
 // import dependency
 var mongoose = require('mongoose')
